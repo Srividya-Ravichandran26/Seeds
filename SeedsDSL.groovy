@@ -1,4 +1,4 @@
-job('DSL_Project_Auto'){
+job('DSL_Project_Auto1'){
   description('Test Automation using DSL Type')
   
   scm{
